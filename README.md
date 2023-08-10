@@ -6,3 +6,5 @@ my best projects:
 - [GDSTREAM](https://github.com/roflb0y/GDSTREAM)
 
 yes i mostly make stuff like discord or telegram bots lol
+
+![](https://raw.githubusercontent.com/roflb0y/github-stats/master/generated/overview.svg#gh-dark-mode-only)
