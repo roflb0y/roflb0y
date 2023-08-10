@@ -7,8 +7,5 @@ my best projects:
 
 yes i mostly make stuff like discord or telegram bots lol
 
-![](https://raw.githubusercontent.com/roflb0y/metrics/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/roflb0y/metrics/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://raw.githubusercontent.com/roflb0y/metrics/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/roflb0y/metrics/master/generated/languages.svg#gh-light-mode-only)
