@@ -3,7 +3,7 @@
 my best projects:
 - [MobileAudioBot](https://github.com/roflb0y/MobileAudioBot) (source archived. [currently launched](https://mobileaudiobot.pw))
 - [RoundMemesBot](https://github.com/roflb0y/RoundMemesBot) ([currently launched](https://t.me/roundmemes_bot))
-- [BeatMarketBot](https://github.com/roflb0y/BeatMarketBot) (big shit but currently not developing)
+- [BeatMarketBot](https://github.com/roflb0y/BeatMarketBot) (big shit but not currently being developed or launched)
 
 smaller stuff:
 - [GDSTREAM](https://github.com/roflb0y/GDSTREAM)
