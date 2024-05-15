@@ -1,7 +1,7 @@
 ### uuuh hello everyone. so basically im just a kid from russia who likes to code stuff
 
 my best projects:
-- [MobileAudioBot](https://github.com/roflb0y/MobileAudioBot) (source archived. [currently launched](https://mobileaudiobot.xyz))
+- [MobileAudioBot](https://github.com/roflb0y/MobileAudioBot) (source now closed. [currently launched](https://mobileaudiobot.xyz))
 - [RoundMemesBot](https://github.com/roflb0y/RoundMemesBot) ([currently launched](https://t.me/roundmemes_bot))
 - [BeatMarketBot](https://github.com/roflb0y/BeatMarketBot) (big shit but not currently being developed or launched)
 
