@@ -2,6 +2,7 @@
 
 my best projects:
 - [MobileAudioBot](https://github.com/roflb0y/MobileAudioBot) (source now closed. [currently launched](https://mobileaudiobot.xyz))
+- [VoiceLoggerBot](https://github.com/roflb0y/VoiceLoggerBot) (currently launched but yet not publicly available)
 - [RoundMemesBot](https://github.com/roflb0y/RoundMemesBot) ([currently launched](https://t.me/roundmemes_bot))
 - [BeatMarketBot](https://github.com/roflb0y/BeatMarketBot) (big shit but not currently being developed or launched)
 
